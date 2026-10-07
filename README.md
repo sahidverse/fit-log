@@ -60,14 +60,14 @@ FitLog is designed to work across:
 
 ---
 
-## 🔗 Links
+## Links
 
 * 🌐 **Live Demo:** [View Live Project](https://fit-log-steel-omega.vercel.app/)
 * 💻 **GitHub Repository:** [View Source Code](https://github.com/sahidverse/fit-log)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sahid Ahmed**
 
