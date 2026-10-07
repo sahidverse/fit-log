@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-cBlack: #0c0d10;
+  --color-cWhite: #ffffff;
+
+  --color-textP: #9ca3af;
+  --color-action: #c2f800;
+  --color-actionT: #000000;
+
+  --color-cardBorder: #222630;
+  --color-cardBack: #15171d;
+
+  --color-menuBack: #1a2312;
+  --color-menuBorder: #1c1f26;
+
+  --color-footerBorder: #1a1d24;
+  --color-footerBack: #090a0d;
+  --color-footerT: #6b7280;
+
+  --color-borderS: #232732;
+  --color-borderS2: #2b303d;
+  --color-backgroundS: #151921;
+  --color-backgroundS2: #1f242d;
+  --color-textS: #8a92a0;
+
+  --shadow-sortBox: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+
+  --color-divide: #20242e;
+
+  --font-Oswald: var(--font-Oswald);
+}
