@@ -36,15 +36,15 @@ Browse a collection of workouts with information such as difficulty, equipment, 
 
 Add workouts to today's plan and manage up to five exercises for the day.
 
-### 3. 🔖 Save Workouts
+### 3. Save Workouts
 
 Save workouts for later and access them from the Saved section of the My Plan page.
 
-### 4. 🔍 Workout Details
+### 4. Workout Details
 
 View detailed workout information including description, muscle groups, equipment, duration, calories, rating, and step-by-step instructions.
 
-### 5. 💾 LocalStorage Persistence
+### 5.  LocalStorage Persistence
 
 Workout plans and saved workouts are stored in the browser's LocalStorage, so the data remains available after refreshing the page.
 
