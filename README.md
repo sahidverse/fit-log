@@ -48,7 +48,7 @@ View detailed workout information including description, muscle groups, equipmen
 
 Workout plans and saved workouts are stored in the browser's LocalStorage, so the data remains available after refreshing the page.
 
-## 📱 Responsive Design
+## Responsive Design
 
 FitLog is designed to work across:
 
