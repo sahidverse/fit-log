@@ -32,6 +32,7 @@ FitLog is a responsive workout tracking web application that helps user to disco
 
 Browse a collection of workouts with information such as difficulty, equipment, duration, calories, muscle groups, and rating.
 
+
 ### 2. Personal Workout Plan
 
 Add workouts to today's plan and manage up to five exercises for the day.
