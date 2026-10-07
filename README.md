@@ -25,7 +25,7 @@ FitLog is a responsive workout tracking web application that helps user to disco
 
 </p>
 
-## ✨ Key Features
+## Key Features
 
 ### 1. 🏋️ Workout Library
 
