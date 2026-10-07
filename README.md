@@ -1,4 +1,4 @@
-# 🏋️ FitLog
+# FitLog
 
 <p align="center">
   <img src="./public/fitlog_readme.svg" alt="FitLog Banner" width="900">
