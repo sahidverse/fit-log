@@ -5,7 +5,7 @@
 </p>
 FitLog is a responsive workout tracking web application that helps user to discover workouts, create a personal workout plan, and save exercises for later watching. Users can browse workout information, view workout details, organize their daily plan, and track completed workouts.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Next.js
 - React
@@ -14,6 +14,7 @@ FitLog is a responsive workout tracking web application that helps user to disco
 - Lucide React
 - REST API
 - Browser LocalStorage
+
 <p align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
